@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import profilepic from "D:/portfolio/src/assets/profilepic.png";
+import profilepic from "../assets/profilepic.png";
 
 const Home = () => {
   const container = {
